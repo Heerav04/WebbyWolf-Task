@@ -2,6 +2,7 @@
 
 A modern web application built with Next.js 16, featuring a sophisticated floating navbar, smooth animations, and a responsive design.
 
+deployed link:-https://webby-wolf-task.vercel.app/
 ## 🚀 Tech Stack
 
 - **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
